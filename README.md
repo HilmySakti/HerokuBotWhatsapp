@@ -1,6 +1,18 @@
-<p align="center">
-<img src="https://k.top4top.io/p_2083soily1.jpeg"/>
+<div align="center">
+<img src="https://k.top4top.io/p_2083soily1.jpeg" alt="SAGIRIBOT" width="300" />
+  
+  <p align="center">
+<a href="https://github.com/HilmySakti/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
+<a href="https://github.com/HilmySakti/HerokuBotWhatsapp/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HilmySakti/HerokuBotWhatsapp?color=blue&style=flat-square"></a>
+<a href="https://github.com/HilmySakti/HerokuBotWhatsapp/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HilmySakti/HerokuBotWhatsapp?color=red&style=flat-square"></a>
+<a href="https://github.com/HilmySakti/HerokuBotWhatsapp/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HilmySakti/HerokuBotWhatsapp?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/HilmySakti/HerokuBotWhatsapp"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/HilmySakti/HerokuBotWhatsapp/"><img title="Size" src="https://img.shields.io/github/repo-size/HilmySakti/HerokuBotWhatsapp?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHilmySakti%2FHerokuBotWhatsapp%2F&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/HilmySakti/HerokuBotWhatsapp/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
+<p align='center'>
+    </p>
 
 ## ```Deploy```
 
