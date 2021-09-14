@@ -13,6 +13,7 @@
 </p>
 <p align='center'>
     </p>
+  ----
 
 ## ```Deploy```
 
@@ -85,6 +86,7 @@
 | FITNAH |✅|
 | FITNAH PC |✅|
 | KONTAK |✅|
+| SIMI |❎|
 
 
 | TAG |✅|
